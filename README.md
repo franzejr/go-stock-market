@@ -1,7 +1,7 @@
 # Stock Market
 [![Build Status](https://travis-ci.org/franzejr/go-stock-market.svg?branch=master)](https://travis-ci.org/franzejr/go-stock-market)
 
-Go simple app using [Markit on Deman API V2](http://dev.markitondemand.com/MODApis/).
+Go simple command line app using [Markit on Deman API V2](http://dev.markitondemand.com/MODApis/).
 
 
 ## Build
